@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/jleakakos/code/cyrus/haskell_code_test'
+let g:netrw_dirhist_2='/Users/jleakakos/code/personal/projecteuler/haskell'
+let g:netrw_dirhist_3='/Users/jleakakos/code/personal/projecteuler'
+let g:netrw_dirhist_4='/Users/jleakakos/code/personal/projecteuler/python'
